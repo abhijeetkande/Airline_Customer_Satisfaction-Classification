@@ -219,3 +219,17 @@ The following machine learning model were applied to predict customer satisfacti
 
 - Jupyter Notebook
 
+
+**How to Run the Code**
+
+
+**Clone the repository to your local machine:**
+
+
+git clone https://github.com/abhijeetkande/airline-customer-satisfaction.git
+
+
+**Navigate to the project directory:**
+
+
+cd Airline_Customer_Satisfaction-Classification
