@@ -34,6 +34,9 @@ This project aims to classify airline customer satisfaction based on various fea
    
  - Technologies Used
 
+
+ - How to Run the Code
+
 ---
 
 **Project Overview:**
@@ -218,6 +221,9 @@ The following machine learning model were applied to predict customer satisfacti
 
 
 - Jupyter Notebook
+
+
+---
 
 
 **How to Run the Code**
