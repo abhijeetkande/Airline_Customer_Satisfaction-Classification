@@ -34,8 +34,8 @@ This project aims to classify airline customer satisfaction based on various fea
    
  - Technologies Used
 
+ - Future Scope
 
- - How to Run the Code
 
 ---
 
@@ -221,21 +221,25 @@ The following machine learning model were applied to predict customer satisfacti
 
 
 - Jupyter Notebook
+  
 
 
 ---
 
 
-**How to Run the Code**
+**Future Scope**
 
 
-**Clone the repository to your local machine:**
+**Enhanced Feature Engineering:** More features can be created using the existing dataset. For example, creating new features like "flight delay category" (short, medium, long delays) may improve model performance.
 
 
-git clone https://github.com/abhijeetkande/airline-customer-satisfaction.git
+**Incorporating More Customer Feedback Data:** By gathering more detailed customer feedback (such as customer surveys), the dataset can be enriched, leading to more accurate predictions.
 
 
-**Navigate to the project directory:**
+**Sentiment Analysis:** Integrating text-based feedback or reviews (if available) into the dataset could offer deeper insights into customer satisfaction and help the model understand more complex patterns.
 
 
-cd Airline_Customer_Satisfaction-Classification
+**Real-Time Prediction:** The model can be deployed as a real-time system to predict customer satisfaction during or after the flight based on live feedback data, helping airlines to respond promptly to dissatisfied customers.
+
+
+**Deploying the Model:** Integrating this model into a production environment, where airlines can get live customer satisfaction predictions, would add tremendous value for service improvement and customer engagement.
