@@ -200,7 +200,7 @@ The following machine learning model were applied to predict customer satisfacti
 
 ---
 
-**Technologies Used**
+**Technologies Used:**
 
 
 **Programming Language:** Python
@@ -227,7 +227,7 @@ The following machine learning model were applied to predict customer satisfacti
 ---
 
 
-**Future Scope**
+**Future Scope:**
 
 
 **Enhanced Feature Engineering:** More features can be created using the existing dataset. For example, creating new features like "flight delay category" (short, medium, long delays) may improve model performance.
